@@ -1,10 +1,10 @@
 # WIK-DPS-TP01
 
-###Utility :
+### Utility :
 
 This program listen on an ip adresse and a port and return the request header on the page if the argument ```/PING``` is enter; else it return an error 404.
 
-###How to use :
+### How to use :
 
 First ```git clone``` the projet in a directory, to lanch the program open a terminal and go to the ```/devops-tp1/scr``` and enter the command ```cargo run```
 By default the ip/port is ```127.0.0.1:7878```, you can change it in the .env file.
